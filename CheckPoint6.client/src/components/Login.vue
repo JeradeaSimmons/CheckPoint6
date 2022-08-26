@@ -22,7 +22,7 @@
             height="40"
             class="rounded"
           />
-          <span class="mx-3 text-success lighten-30">{{ account.name || user.name }}</span>
+          
         </div>
       </div>
       <div
